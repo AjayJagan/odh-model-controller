@@ -13,8 +13,8 @@ require (
 	github.com/kuadrant/authorino v0.20.0
 	github.com/kubeflow/model-registry v0.2.14
 	github.com/onsi/ginkgo v1.16.5
-	github.com/onsi/ginkgo/v2 v2.22.2
-	github.com/onsi/gomega v1.36.2
+	github.com/onsi/ginkgo/v2 v2.23.3
+	github.com/onsi/gomega v1.37.0
 	github.com/openshift/api v0.0.0-20250102185430-d6d8306a24ec
 	github.com/openshift/client-go v0.0.0-20250102190827-c8a353937472
 	github.com/pkg/errors v0.9.1
