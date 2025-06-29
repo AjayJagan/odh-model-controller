@@ -10,7 +10,7 @@ require (
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/kedacore/keda/v2 v2.16.1
 	github.com/kserve/kserve v0.15.0
-	github.com/kuadrant/authorino v0.20.0
+	github.com/kuadrant/authorino v0.21.0
 	github.com/kubeflow/model-registry v0.2.14
 	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/ginkgo/v2 v2.22.2
