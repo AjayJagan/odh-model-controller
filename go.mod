@@ -28,7 +28,7 @@ require (
 	k8s.io/apimachinery v0.32.3
 	k8s.io/apiserver v0.32.3
 	k8s.io/client-go v0.32.3
-	k8s.io/utils v0.0.0-20241210054802-24370beab758
+	k8s.io/utils v0.0.0-20250604170112-4c0f3b243397
 	knative.dev/pkg v0.0.0-20250117084104-c43477f0052b
 	knative.dev/serving v0.44.0
 	maistra.io/api v0.0.0-20240319144440-ffa91c765143
