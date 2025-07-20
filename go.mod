@@ -1,6 +1,8 @@
 module github.com/opendatahub-io/odh-model-controller
 
-go 1.23.6
+go 1.24.1
+
+toolchain go1.24.4
 
 require (
 	github.com/go-logr/logr v1.4.2
@@ -9,11 +11,11 @@ require (
 	github.com/hashicorp/errwrap v1.1.0
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/kedacore/keda/v2 v2.16.1
-	github.com/kserve/kserve v0.15.0
+	github.com/kserve/kserve v0.15.2
 	github.com/kuadrant/authorino v0.20.0
 	github.com/kubeflow/model-registry v0.2.14
 	github.com/onsi/ginkgo v1.16.5
-	github.com/onsi/ginkgo/v2 v2.22.2
+	github.com/onsi/ginkgo/v2 v2.23.1
 	github.com/onsi/gomega v1.36.2
 	github.com/openshift/api v0.0.0-20250102185430-d6d8306a24ec
 	github.com/openshift/client-go v0.0.0-20250102190827-c8a353937472
